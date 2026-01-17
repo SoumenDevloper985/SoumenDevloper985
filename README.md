@@ -58,7 +58,7 @@
 
 <h2 align="left"><img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-01-367_512.gif" width="48"> Competitive programming Profile</h2>
 <p align="left">
-<a href="https://leetcode.com/u/Soumen05/"><img src="https://workablehr.s3.amazonaws.com/uploads/account/open_graph_logo/604858/social?1687549873000" height="48" alt="LeetCode"/></a>
+<a href="https://leetcode.com/u/SoumenMaity06/"><img src="https://workablehr.s3.amazonaws.com/uploads/account/open_graph_logo/604858/social?1687549873000" height="48" alt="LeetCode"/></a>
 <a href="https://www.geeksforgeeks.org/user/maitysoumhiu/"><img src="https://play-lh.googleusercontent.com/ZI21NMObsjB7DbPU_EXRymHJL3HQpfsrB2N4CWb-diXm4xjl_13mmetYQZvcpgGf-64" height="48" alt="GFG"/></a>
 <a href="https://www.codechef.com/users/soumenmaity05"><img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" height="48" alt="CodeChef"/></a>
 </p>
