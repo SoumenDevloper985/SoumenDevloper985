@@ -60,7 +60,7 @@
 <p align="left">
 <a href="https://leetcode.com/u/SoumenMaity06/"><img src="https://workablehr.s3.amazonaws.com/uploads/account/open_graph_logo/604858/social?1687549873000" height="48" alt="LeetCode"/></a>
 <a href="https://www.geeksforgeeks.org/user/maitysoumhiu/"><img src="https://play-lh.googleusercontent.com/ZI21NMObsjB7DbPU_EXRymHJL3HQpfsrB2N4CWb-diXm4xjl_13mmetYQZvcpgGf-64" height="48" alt="GFG"/></a>
-<a href="https://www.codechef.com/users/soumenmaity05"><img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" height="48" alt="CodeChef"/></a>
+<a href="https://www.codechef.com/users/soumen07"><img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" height="48" alt="CodeChef"/></a>
 </p>
 
 <h2 align="left"><img src="https://c.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="48"> Profile stats  </h2>
